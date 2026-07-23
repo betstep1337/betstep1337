@@ -3,7 +3,7 @@
 ### Разработчик Minecraft-плагинов (Paper/Spigot API, 1.16+)  
 ### Технический администратор серверов с 2024 года
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/betstep_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/betstep1337)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![PaperMC](https://img.shields.io/badge/PaperMC-4285F4?style=flat&logo=git&logoColor=white)](https://papermc.io)
@@ -31,6 +31,6 @@
 
 ### Связь
 
-- **Telegram**: [@betstep](https://t.me/betstep_dev)  
+- **Telegram**: [@betstep](https://t.me/betstep1337)  
 - **Discord**: `lozarevsky`
 - **Отзывы**: [otzivi](https://t.me/betstepotzivi)
