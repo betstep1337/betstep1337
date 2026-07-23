@@ -31,6 +31,6 @@
 
 ### Связь
 
-- **Telegram**: [@betstep](https://t.me/betstep)  
+- **Telegram**: [@betstep](https://t.me/betstep_dev)  
 - **Discord**: `lozarevsky`
 - **Отзывы**: [otzivi](https://t.me/betstepotzivi)
